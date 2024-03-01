@@ -1,0 +1,26 @@
+.para{
+   align-items: center;
+   margin-left: 436px;
+   
+}
+h1{
+    margin-left: 136px;
+    color: blue;
+}
+.section{
+    margin-top: 61px;
+    margin-left: 445px;
+}
+button{
+    width: 90px;
+    height: 60px;
+    font-size: 15px;
+    color: blue;
+    background-color: aquamarine;
+}
+#result{    margin-top: 20px;
+    width: 351px;}
+    body{
+        background-image: linear-gradient(violet,pink);
+        background-repeat: no-repeat;
+    }

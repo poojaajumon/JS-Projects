@@ -1,0 +1,26 @@
+.one{
+   margin-left: 465px;
+   padding-top: 42px;
+}
+#pass{
+    
+
+    width: 287px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: lightgreen;
+    color:black;
+    font-size: 25px;
+}
+#para{
+    font-size: 25px;
+    margin-left: 102px;
+}
+body{
+    background-image: url(../images/OIP\ \(3\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: aliceblue;
+}

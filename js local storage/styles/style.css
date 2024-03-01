@@ -1,0 +1,61 @@
+/* body{
+    background-image: url(../images/istockphoto-1078178450-612x612.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container{
+    
+
+    margin-top: 150px;
+    padding-left: 132px;
+
+}
+#para{
+    background-color: #2c2929;
+    border: none;
+    color: white;
+    font-size: 30px;
+}
+#img1{
+    border: none;
+}
+#add,#read,#delete{
+    border: none;
+    border-radius: 15%;
+}
+.buttons{
+    padding-top: 37px;
+}
+#std{
+    font-size: 40px;
+    color: white;
+
+}
+#para2{
+    color: white;
+    font-size: 30px;
+} */
+
+/* task 41 */
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 3vw;
+    font-weight: bold;
+}
+.button{
+    background-color: rgb(243, 233, 233); 
+    border:2px solid rgb(83, 20, 20);
+    border-radius: 7px; 
+    color: rgb(255, 0, 170);  
+    font-size: 3vw;
+    font-weight: bold; 
+}
+li{
+    color: rgb(189, 13, 116);
+    font-size: 3vw;
+    font-weight: bold;
+}
+.container-fluid{
+    background-color: rgb(193, 207, 203);
+}
